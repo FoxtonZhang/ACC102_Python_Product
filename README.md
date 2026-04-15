@@ -24,11 +24,13 @@ Traditional financial wisdom suggests that technology stocks offer high risk and
 4. **Visualisation:** Deployed `matplotlib` and `seaborn` to generate professional business charts (Line charts, Bar charts, and Scatter plots).
 
 ## 4. Key Findings & Business Insights
-* Please refer to the charts in the `images` in the notebook output*
+* Please refer to the charts in the `images` in the notebook output
 
 * **The "Tech King" Premium (AAPL):** Despite exhibiting the highest annualized volatility (32.22%), AAPL provided the highest Sharpe Ratio (1.173) and dominated cumulative wealth generation. It effectively compensated investors for the high risk taken, operating as a pure offensive engine.
 * **The Ultimate Defensive Shield (JNJ):** JNJ demonstrated an annualized volatility (19.86%) lower than the broader market index (21.08%). The Underwater Drawdown Chart reveals that during both the 2020 pandemic crash and the 2022 bear market, JNJ suffered the shallowest maximum drawdown (-27.36%). It successfully fulfilled its role as a capital preservation asset.
 * **The "Interest Rate Trap" for Utilities (NEE):** A counter-intuitive finding emerged regarding the utility sector. Typically viewed as a safe haven, NEE experienced a massive maximum drawdown of -44.99%, underperforming the market benchmark. This reveals that in an aggressive rate-hike macroeconomic environment, heavy-asset, dividend-yielding utility stocks become highly vulnerable to interest rate risks, thus breaking the traditional "low-risk" stereotype.
+
+* Thus, for risk-averse investors, it would be more suitable to focus on the firm in medical and health field.
 
 ## 5. How to Run This Project
 To reproduce the analysis locally, please follow these steps:
