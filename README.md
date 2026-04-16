@@ -51,7 +51,7 @@ The tool highlights critical market patterns observed in the default 2019-2023 d
 ### Execution
 Launch the app via terminal:
 ```bash
-streamlit run app.py
+streamlit run 'your pathway'/app.py
 ```
 
 ## 6. Project Structure
