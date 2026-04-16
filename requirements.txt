@@ -2,3 +2,4 @@ wrds
 pandas
 matplotlib
 seaborn
+streamlit
