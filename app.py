@@ -12,10 +12,10 @@ st.markdown("Assess risk and return for different stock tickers compared to the 
 
 # --- 交互式输入侧边栏 / Interactive input sidebar ---
 st.sidebar.header("User Inputs")
-wrds_username = st.sidebar.text_input("WRDS Username", value="junqi_zhang")
+wrds_username = st.sidebar.text_input("WRDS Username", value="")
 # Added password input box, set type to password to hide text
 wrds_password = st.sidebar.text_input("WRDS Password", type="password")
-tickers_input = st.sidebar.text_input("Enter Tickers (comma separated)", value="AAPL, NEE, JNJ, JPM")
+tickers_input = st.sidebar.text_input("Enter Tickers (comma separated)", value="")
 start_date = st.sidebar.date_input("Start Date", pd.to_datetime("2019-01-01"))
 end_date = st.sidebar.date_input("End Date", pd.to_datetime("2023-12-31"))
 
