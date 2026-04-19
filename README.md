@@ -58,7 +58,6 @@ streamlit run 'your pathway'/app.py
 - `app.py`: The core Streamlit application logic.
 - `requirements.txt`: List of Python dependencies.
 - `README.md`: Project documentation.
-- `images/`: Folder containing screenshots of the dashboard.
 
 ## 7. Limitations & Professional Practice
 - **Data Latency:** Relies on WRDS server response times.
