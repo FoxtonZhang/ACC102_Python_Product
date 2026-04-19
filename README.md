@@ -2,7 +2,6 @@
 
 **Interactive Web App | Track 4 Project for ACC102**
 
-**Product URL: https://acc102pythonappuct-nd6d7pxdcld48f7uctn7eq.streamlit.app/**
 
 ## 1. Project Overview & Target Audience
 This project provides an interactive platform for analyzing the risk and return profiles of various US stocks across a full 5-year business cycle (2019-2023). Unlike static reports, this tool allows users to dynamically select assets and benchmarks to test financial hypotheses under different macroeconomic conditions (e.g., the COVID-19 crash and the high-interest-rate environment).
