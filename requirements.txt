@@ -4,4 +4,3 @@ pandas
 matplotlib
 seaborn
 tabulate
-psycopg2-binary
